@@ -5,7 +5,7 @@
  
  
  // 读取图片文件转换为 base64 编码
- function parse (file) {
+ module.exports.parse = function (file) {
    const filePath = path.resolve(file); // 原始文件地址
    const fileMimeType = mimeType.lookup(filePath); // 获取文件的 memeType
  
