@@ -10,6 +10,7 @@
   "author": "wujianming",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.1"
+    "chalk": "^4.1.1",
+    "mime-types": "^2.1.31"
   }
 }
