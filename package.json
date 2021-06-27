@@ -1,5 +1,5 @@
 {
-  "name": "img2base64",
+  "name": "img-convert-to-base64",
   "version": "1.0.0",
   "description": "将图片装化成base64",
   "main": "index.js",
