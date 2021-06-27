@@ -1,0 +1,15 @@
+{
+  "name": "img2base64",
+  "version": "1.0.0",
+  "description": "将图片装化成base64",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "图片转化成base64"
+  ],
+  "author": "wujianming",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
